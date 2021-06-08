@@ -1,10 +1,10 @@
 /*Tugas Kelompok Stack List
 Nama-anggota:
-1. 
-2.
-3.
+1. Nadaa Azhar				2017051057
+2. Erlangga Dwi Jiwantoro	2017051020
+3. Fathur Rahman Rais		2057051003
 
-Link Github: .....
+Link Github: https://github.com/Nadaa14/Petruk-Stack.git
 */
 #include <bits/stdc++.h>
 #define MAX_STACK_SIZE 100
@@ -39,19 +39,19 @@ public:
         top=NULL;
     }
     bool isEmpty(){
-        //anggota 1
+        //Fathur
     }
     bool isFull(){
-        //anggota 1
+        //Fathur
     }
     void push(Lingkaran *item){
-        //anggota 2
+        //Nadaa
     }
     void push(double radius){
-        //anggota 2
+        //Nadaa
     }
     Lingkaran *pop(){
-        //anggota 3
+        //Erlangga
     }
 };
 int main(){
